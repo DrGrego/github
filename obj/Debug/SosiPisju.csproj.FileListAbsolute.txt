@@ -1,0 +1,12 @@
+D:\Иваников\Говнокод №6\SosiPisju\bin\Debug\SosiPisju.exe.config
+D:\Иваников\Говнокод №6\SosiPisju\bin\Debug\SosiPisju.exe
+D:\Иваников\Говнокод №6\SosiPisju\bin\Debug\SosiPisju.pdb
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.csprojResolveAssemblyReference.cache
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.Form1.resources
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.Properties.Resources.resources
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.csproj.GenerateResource.Cache
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.exe
+D:\Иваников\Говнокод №6\SosiPisju\obj\Debug\SosiPisju.pdb
+D:\Долгачёв\GOVNOKOD6\bin\Debug\SosiPisju.exe.config
+D:\Долгачёв\GOVNOKOD6\obj\Debug\SosiPisju.exe
+D:\Долгачёв\GOVNOKOD6\obj\Debug\SosiPisju.pdb
